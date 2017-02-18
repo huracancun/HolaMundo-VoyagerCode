@@ -16,6 +16,13 @@ public class HolaMundo20 {
      */
     public static void main(String[] args){
         System.out.println("Hola Mundo, equipo 3 en GIT HUB...Segun");
-        System.out.println("algo");
+    System.out.println("Hola Mundo, equipo 3 en GIT HUB...Segun");
+    System.out.println("Hola Mundo, equipo 3 en GIT HUB...Segun");
+
+    
+    
+    
+
+        
     }}
     
